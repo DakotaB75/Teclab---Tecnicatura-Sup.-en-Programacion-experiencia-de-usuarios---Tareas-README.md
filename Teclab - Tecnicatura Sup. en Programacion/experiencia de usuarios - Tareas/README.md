@@ -5,7 +5,7 @@ Repositorio académico organizado con documentación entregable correspondiente 
 
 ## 📚 Archivos disponibles
 
-- 💜 [Investigación UX](Teclab%20Exp%20Usuario%201.pdf)
-- 💜 [Experiencia de Usuario con APIs](EXP%20Usuario%20API%202%20-%20Teclab.pdf)
+- 💜 [UX Stakeholder](Teclab%20Exp%20Usuario%201.pdf)
+- 💜 [Investigación UX Research](EXP%20Usuario%20API%202%20-%20Teclab.pdf)
 - 💜 [Arquitectura de la Información](EXP%20Usuario%20API%203%20-%20Teclab.pdf)
 
