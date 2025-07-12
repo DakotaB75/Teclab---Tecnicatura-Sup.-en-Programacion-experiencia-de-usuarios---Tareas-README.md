@@ -1,10 +1,8 @@
 
-📍 Experiencia de Usuarios – Tareas
+📍 Experiencia de Usuarios – Entregas Técnicas | Teclab
 
-Este directorio contiene las entregas correspondientes a la materia **Experiencia de Usuarios**, cursada en la Tecnicatura Superior en Programación (Teclab).
+Repositorio académico organizado con documentación entregable correspondiente a la asignatura **Experiencia de Usuarios**, cursada en la carrera *Tecnicatura Superior en Programación* – Teclab.
 
-## 📚 Archivos subidos
+## 📚 Archivos disponibles
 
-💜
-💜
-💜
+- 💜 
