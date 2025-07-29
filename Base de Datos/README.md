@@ -1,2 +1,2 @@
-# 📍 Módulos de Lectura – Base de Datos
+# 📍 Módulos de Lectura – Bases de Datos
 
